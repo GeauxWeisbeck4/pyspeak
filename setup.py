@@ -16,7 +16,7 @@ setup(name='PySpeak',
           'py==1.4.13',
           'pytest==2.3.4',
           'simplejson==3.1.3',
-          'requests==1.2.0'
+          'requests==2.32.0'
       ],
       classifiers=[
           'Natural Language :: English',
